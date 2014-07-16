@@ -7,7 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Parse/Parse.h>
+
+#import "MainViewController.h"
 
 @interface LoginViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UITextField *usernameField;
+@property (weak, nonatomic) IBOutlet UITextField *passwordField;
+
+- (IBAction)onLoginButton:(id)sender;
+- (IBAction)onSignupButton:(id)sender;
+
 
 @end

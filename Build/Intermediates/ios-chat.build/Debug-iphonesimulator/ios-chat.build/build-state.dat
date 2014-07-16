@@ -1,0 +1,1107 @@
+Tios-chat
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh
+cProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch ios-chat/ios-chat-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o /Users/ors/projects/ios-chat/ios-chat/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o /Users/ors/projects/ios-chat/ios-chat/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o /Users/ors/projects/ios-chat/ios-chat/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o /Users/ors/projects/ios-chat/ios-chat/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat normal i386
+cCopyStringsFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings ios-chat/en.lproj/InfoPlist.strings
+cCompileXIB /Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib
+cCompileXIB /Users/ors/projects/ios-chat/ios-chat/MainViewController.xib
+cCompileAssetCatalog /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app /Users/ors/projects/ios-chat/ios-chat/Images.xcassets
+cProcessInfoPlistFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist /Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist
+cGenerateDSYMFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh
+cTouch /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534818830000000000000198
+t1397233795
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F5AB000000000000003B4
+t1394563760
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F5AB5000000000000019E
+t1394563765
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c00000000531F5AB600000000000942B0
+t1394563766
+s606896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c00000000531F5AB60000000000008CC0
+t1394563766
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000531F5AB70000000000904120
+t1394563767
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F5AB7000000000058E0E0
+t1394563767
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000531F5AB600000000000FB140
+t1394563766
+s1028416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F5AB700000000005B82F0
+t1394563767
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534818600000000000446820
+t1397233760
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F5AB700000000003599D0
+t1394563767
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531F5AB700000000000F1A80
+t1394563767
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c00000000531F5AB700000000000CF090
+t1394563767
+s848016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c00000000531F5AB7000000000022B660
+t1394563767
+s2274912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F5AB700000000002FC3B0
+t1394563767
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F5AB7000000000004B000
+t1394563767
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F5AB8000000000088D8C0
+t1394563768
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531F5AB800000000001BE790
+t1394563768
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F5AB90000000000037680
+t1394563769
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F5AB9000000000048F720
+t1394563769
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F5AB9000000000013FD70
+t1394563769
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+c00000000531F5AB90000000000222210
+t1394563769
+s2236944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c00000000531F5AB9000000000006E450
+t1394563769
+s451664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000531F5AB900000000001081C0
+t1394563769
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F5ABB0000000001F1DE10
+t1394563771
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F5AC300000000002BC360
+t1394563779
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F5AC80000000000002338
+t1394563784
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F5AC9000000000008D370
+t1394563785
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F5AC80000000000392E20
+t1394563784
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005386315E00000000000141F0
+t1401303390
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F5AC90000000000014A80
+t1394563785
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F5AC90000000000033BA0
+t1394563785
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F5AC9000000000001CFB0
+t1394563785
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F5AC9000000000001B2B0
+t1394563785
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F5AC900000000000C9570
+t1394563785
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F5AC90000000000063280
+t1394563785
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F5AC90000000000008880
+t1394563785
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F5AC90000000000015080
+t1394563785
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F5AC900000000000230F0
+t1394563785
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F5AC9000000000000E380
+t1394563785
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F5AC90000000000089380
+t1394563785
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F5AC90000000000017320
+t1394563785
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F5AC90000000000039CD0
+t1394563785
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F5AC9000000000000B0B0
+t1394563785
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F5AC90000000000167E80
+t1394563785
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F5AC900000000000106A0
+t1394563785
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F5AC9000000000001CE40
+t1394563785
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F5AC900000000000740C0
+t1394563785
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F5AC9000000000006CA60
+t1394563785
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F5AC9000000000001BAD0
+t1394563785
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F5AC90000000000084A20
+t1394563785
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F5ACC0000000000000ADC
+t1394563788
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053481860000000000000514C
+t1397233760
+s20812
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch
+t1405476620
+s122516
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o
+t1405477701
+s72660
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o
+t1405477701
+s55592
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o
+t1405477452
+s40052
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/ios-chat.LinkFileList
+c0000000053C5DF0C0000000000000224
+t1405476620
+s548
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o
+t1405477701
+s3712
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh
+c0000000053C5DF0C000000000000002F
+t1405476620
+s47
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh
+c0000000053C5DF0C0000000000000103
+t1405476620
+s259
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_dependencies.txt
+t1405476621
+s348
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_generated_info.plist
+t1405476621
+s525
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app
+t1405477701
+s374
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM
+t1405477701
+s102
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist
+t1405476621
+s977
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/LoginViewController.nib
+t1405476621
+s3422
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/MainViewController.nib
+t1405476621
+s2142
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/PkgInfo
+t1405476621
+s8
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings
+t1405476621
+s42
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat
+t1405477701
+s4573924
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods.a
+c0000000053C5DF0C000000000053CED0
+t1405476620
+s5492432
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFACL.h
+c00000000533EF95100000000000019F8
+t1396635985
+s6648
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+c00000000533EF9510000000000000ABC
+t1396635985
+s2748
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+c00000000533EF951000000000000094B
+t1396635985
+s2379
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFCloud.h
+c00000000533EF9510000000000000847
+t1396635985
+s2119
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFConstants.h
+c00000000533EF9510000000000001EE5
+t1396635985
+s7909
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+c00000000533EF9510000000000002BF1
+t1396635985
+s11249
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFile.h
+c00000000533EF9510000000000001F8D
+t1396635985
+s8077
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+c00000000533EF9510000000000000A3E
+t1396635985
+s2622
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFImageView.h
+c00000000533EF9510000000000000366
+t1396635985
+s870
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+c00000000533EF9510000000000000B43
+t1396635985
+s2883
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+c00000000533EF9510000000000000B75
+t1396635985
+s2933
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+c00000000533EF9510000000000000E55
+t1396635985
+s3669
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFObject.h
+c00000000533EF951000000000000545E
+t1396635985
+s21598
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProduct.h
+c00000000533EF951000000000000068E
+t1396635985
+s1678
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+c00000000533EF951000000000000023A
+t1396635985
+s570
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+c00000000533EF9510000000000000A6A
+t1396635985
+s2666
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPush.h
+c00000000533EF9510000000000004591
+t1396635985
+s17809
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQuery.h
+c00000000533EF951000000000000526A
+t1396635985
+s21098
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+c00000000533EF951000000000000153A
+t1396635985
+s5434
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRelation.h
+c00000000533EF95100000000000003A0
+t1396635985
+s928
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRole.h
+c00000000533EF9510000000000000AE4
+t1396635985
+s2788
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+c00000000533EF95100000000000008C6
+t1396635985
+s2246
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+c00000000533EF9510000000000000B96
+t1396635985
+s2966
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+c00000000533EF95100000000000007EE
+t1396635985
+s2030
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+c00000000533EF9510000000000000299
+t1396635985
+s665
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+c00000000533EF9510000000000001FBC
+t1396635985
+s8124
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFUser.h
+c00000000533EF9510000000000003354
+t1396635985
+s13140
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+c00000000533EF95100000000000008B0
+t1396635985
+s2224
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+c00000000533EF95100000000000005E1
+t1396635985
+s1505
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/Parse.h
+c00000000533EF951000000000000081A
+t1396635985
+s2074
+
+N/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Parse
+c00000000533EF9510000000001D95EEC
+t1396635985
+s31022828
+
+N/Users/ors/projects/ios-chat/ios-chat/AppDelegate.h
+c0000000053C5E22400000000000001E1
+t1405477412
+s481
+
+N/Users/ors/projects/ios-chat/ios-chat/AppDelegate.m
+c0000000053C5E21A0000000000000AC6
+t1405477402
+s2758
+
+N/Users/ors/projects/ios-chat/ios-chat/Images.xcassets
+c0000000053C5DA130000000000000088
+t1405475347
+s136
+
+N/Users/ors/projects/ios-chat/ios-chat/LoginViewController.h
+c0000000053C5E34500000000000001EF
+t1405477701
+s495
+
+N/Users/ors/projects/ios-chat/ios-chat/LoginViewController.m
+c0000000053C5E3440000000000000730
+t1405477700
+s1840
+
+N/Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib
+c0000000053C5DDC100000000000011E9
+t1405476289
+s4585
+
+N/Users/ors/projects/ios-chat/ios-chat/MainViewController.h
+c0000000053C5E24800000000000000E4
+t1405477448
+s228
+
+N/Users/ors/projects/ios-chat/ios-chat/MainViewController.m
+c0000000053C5DA9600000000000002E1
+t1405475478
+s737
+
+N/Users/ors/projects/ios-chat/ios-chat/MainViewController.xib
+c0000000053C5DF090000000000000885
+t1405476617
+s2181
+
+N/Users/ors/projects/ios-chat/ios-chat/en.lproj/InfoPlist.strings
+c0000000053C5DA13000000000000002D
+t1405475347
+s45
+
+N/Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist
+c0000000053C5DA13000000000000048C
+t1405475347
+s1164
+
+N/Users/ors/projects/ios-chat/ios-chat/ios-chat-Prefix.pch
+c0000000053C5DA130000000000000158
+t1405475347
+s344
+
+N/Users/ors/projects/ios-chat/ios-chat/main.m
+c0000000053C5DA130000000000000156
+t1405475347
+s342
+
+N/usr/lib/libSystem.B.dylib
+c0000000053863147000000000000E6D0
+t1401303367
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000527838540000000000012A00
+t1383610452
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052783838000000000002E320
+t1383610424
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000527838450000000000021860
+t1383610437
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052783853000000000001B620
+t1383610451
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005278385300000000000BD920
+t1383610451
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005386315E00000000000141F0
+t1401303390
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052783853000000000000A120
+t1383610451
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530FF8B6000000000001D550
+t1393555638
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000527838520000000000014EE0
+t1383610450
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000527838550000000000010380
+t1383610453
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052783855000000000000C4C0
+t1383610453
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005278385400000000000357A0
+t1383610452
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052783854000000000000C070
+t1383610452
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005386315A0000000000010630
+t1401303386
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530FF8B6000000000001DF10
+t1393555638
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000527838450000000000075B00
+t1383610437
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053863147000000000007CD60
+t1401303367
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005278384500000000000766C0
+t1383610437
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000527838450000000000021FA0
+t1383610437
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530FF8B6000000000002D920
+t1393555638
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052783854000000000001E570
+t1383610452
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053863151000000000000CC70
+t1401303377
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005278384E000000000000C3F0
+t1383610446
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005278385400000000000199F0
+t1383610452
+s104944
+
+CBuild AST from /Users/ors/projects/ios-chat/ios-chat/AppDelegate.m
+r0
+
+CBuild AST from /Users/ors/projects/ios-chat/ios-chat/LoginViewController.m
+r0
+
+CBuild AST from /Users/ors/projects/ios-chat/ios-chat/MainViewController.m
+r0
+
+CBuild AST from /Users/ors/projects/ios-chat/ios-chat/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese012e0db1a76b941^7a50e0db1a76b941^---0#1#1#--18"Check dependencies36"14EA6919-77E6-4B0E-9EE3-69F5B100A50F-
+
+CCompileAssetCatalog /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app /Users/ors/projects/ios-chat/ios-chat/Images.xcassets
+s427169421.224597
+e427169421.942640
+r1
+xCompileAssetCatalog
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app
+x/Users/ors/projects/ios-chat/ios-chat/Images.xcassets
+o2014-07-15 19:10:21.851 IBCocoaTouchImageCatalogTool[7113:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/LaunchImage-700-568h@2x.png
+o/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Assets.car
+o/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ios-chat.app ios-chat/Images.xcassets94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ios-chat.app ios-chat/Images.xcassetsc58f398d1676b941^a451f18d1676b941^-597"2014-07-15 19:10:21.851 IBCocoaTouchImageCatalogTool[7113:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/LaunchImage-700-568h@2x.png/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Assets.car/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@61"file:///Users/ors/projects/ios-chat/ios-chat/Images.xcassets/0000000000000000^1096"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ios-chat.app ios-chat/Images.xcassets    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app /Users/ors/projects/ios-chat/ios-chat/Images.xcassets36"334DF557-2653-47CE-B97F-71BB0773FF6D-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o /Users/ors/projects/ios-chat/ios-chat/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427170501.316901
+e427170501.420494
+r1
+xCompileC
+xBuild/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o
+x/Users/ors/projects/ios-chat/ios-chat/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/ios-chat/AppDelegate.m
+d/Users/ors/projects/ios-chat/ios-chat/AppDelegate.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+d/Users/ors/projects/ios-chat/ios-chat/LoginViewController.h
+d/Users/ors/projects/ios-chat/ios-chat/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/ors/projects/ios-chat/ios-chat/AppDelegate.m205"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o ios-chat/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler093751c51a76b941^fca76bc51a76b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/ors/projects/ios-chat/ios-chat/AppDelegate.m0000000000000000^4091"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o ios-chat/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -isystem /Users/ors/projects/ios-chat/Pods/Headers -isystem /Users/ors/projects/ios-chat/Pods/Headers/Bolts -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Parse -include /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.dia -c /Users/ors/projects/ios-chat/ios-chat/AppDelegate.m -o /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o36"9A691CBD-61C9-46A7-AACE-272CCE6E80E6-
+b241A72FE-C3F6-4AF9-AF58-9861513B8830
+
+CCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o /Users/ors/projects/ios-chat/ios-chat/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427170501.317371
+e427170501.417286
+r1
+xCompileC
+xBuild/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o
+x/Users/ors/projects/ios-chat/ios-chat/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/ios-chat/LoginViewController.m
+d/Users/ors/projects/ios-chat/ios-chat/LoginViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+d/Users/ors/projects/ios-chat/ios-chat/MainViewController.h
+o/Users/ors/projects/ios-chat/ios-chat/LoginViewController.m:67:23: warning: unused variable 'errorString' [-Wunused-variable]
+o            NSString *errorString = [error userInfo][@"error"];
+o                      ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/ors/projects/ios-chat/ios-chat/LoginViewController.m221"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o ios-chat/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler375351c51a76b941^80d46ac51a76b941^-235"/Users/ors/projects/ios-chat/ios-chat/LoginViewController.m:67:23: warning: unused variable 'errorString' [-Wunused-variable]            NSString *errorString = [error userInfo][@"error"];                      ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused variable 'errorString'-427170501#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@66"file:///Users/ors/projects/ios-chat/ios-chat/LoginViewController.m0000000000000000^66#22#66#22#1698#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@66"file:///Users/ors/projects/ios-chat/ios-chat/LoginViewController.m0000000000000000^4139"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o ios-chat/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -isystem /Users/ors/projects/ios-chat/Pods/Headers -isystem /Users/ors/projects/ios-chat/Pods/Headers/Bolts -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Parse -include /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.dia -c /Users/ors/projects/ios-chat/ios-chat/LoginViewController.m -o /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o36"B1835581-B1D2-4049-9FAB-5F3A7A3E8103-
+b241A72FE-C3F6-4AF9-AF58-9861513B8830
+
+CCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o /Users/ors/projects/ios-chat/ios-chat/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427170251.975171
+e427170252.040638
+r1
+xCompileC
+xBuild/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o
+x/Users/ors/projects/ios-chat/ios-chat/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/ios-chat/MainViewController.m
+d/Users/ors/projects/ios-chat/ios-chat/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ors/projects/ios-chat/ios-chat/MainViewController.m219"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o ios-chat/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24b8f9cb1976b941^41f20acc1976b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/ors/projects/ios-chat/ios-chat/MainViewController.m0000000000000000^4133"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o ios-chat/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -isystem /Users/ors/projects/ios-chat/Pods/Headers -isystem /Users/ors/projects/ios-chat/Pods/Headers/Bolts -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Parse -include /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.dia -c /Users/ors/projects/ios-chat/ios-chat/MainViewController.m -o /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o36"C2D2A549-04E7-492C-AE96-3C2A608C08D9-
+b5646360A-1804-4919-81B1-63F3CF7873D1
+
+CCompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o /Users/ors/projects/ios-chat/ios-chat/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427170501.317100
+e427170501.385531
+r1
+xCompileC
+xBuild/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o
+x/Users/ors/projects/ios-chat/ios-chat/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/ios-chat/main.m
+d/Users/ors/projects/ios-chat/ios-chat/AppDelegate.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+d/Users/ors/projects/ios-chat/ios-chat/LoginViewController.h
+d/Users/ors/projects/ios-chat/ios-chat/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/ors/projects/ios-chat/ios-chat/main.m191"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o ios-chat/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler104151c51a76b941^11fd62c51a76b941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/ors/projects/ios-chat/ios-chat/main.m0000000000000000^4049"CompileC Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o ios-chat/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -isystem /Users/ors/projects/ios-chat/Pods/Headers -isystem /Users/ors/projects/ios-chat/Pods/Headers/Bolts -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Parse -include /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.dia -c /Users/ors/projects/ios-chat/ios-chat/main.m -o /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o36"6C56ED23-7337-4639-A778-A92E2E4240E3-
+b241A72FE-C3F6-4AF9-AF58-9861513B8830
+
+CCompileXIB /Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib
+s427169421.224093
+e427169421.992959
+r1
+xCompileXIB
+x/Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib
+o2014-07-15 19:10:21.869 Interface Builder Cocoa Touch Tool[7112:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compiling /Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib43"CompileXIB ios-chat/LoginViewController.xib8c6a398d1676b941^9c33fe8d1676b941^-227"2014-07-15 19:10:21.869 Interface Builder Cocoa Touch Tool[7112:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@68"file:///Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib0000000000000000^745"CompileXIB ios-chat/LoginViewController.xib    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/LoginViewController.nib /Users/ors/projects/ios-chat/ios-chat/LoginViewController.xib36"2C54AF40-D92B-4AA0-86E8-C01966E46EC8-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CCompileXIB /Users/ors/projects/ios-chat/ios-chat/MainViewController.xib
+s427169421.224187
+e427169421.371132
+r1
+xCompileXIB
+x/Users/ors/projects/ios-chat/ios-chat/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compiling /Users/ors/projects/ios-chat/ios-chat/MainViewController.xib42"CompileXIB ios-chat/MainViewController.xibe674398d1676b941^3a035f8d1676b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/ors/projects/ios-chat/ios-chat/MainViewController.xib0000000000000000^742"CompileXIB ios-chat/MainViewController.xib    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/MainViewController.nib /Users/ors/projects/ios-chat/ios-chat/MainViewController.xib36"1514C2C5-4D1C-4905-BFED-0251D35E4557-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CCopyStringsFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings ios-chat/en.lproj/InfoPlist.strings
+s427169421.223947
+e427169421.228987
+r1
+xCopyStringsFile
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings
+xios-chat/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy ios-chat/en.lproj/InfoPlist.strings128"CopyStringsFile Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings ios-chat/en.lproj/InfoPlist.strings8464398d1676b941^7b9f3a8d1676b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/ors/projects/ios-chat/ios-chat/en.lproj/InfoPlist.strings0000000000000000^577"CopyStringsFile Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj/InfoPlist.strings ios-chat/en.lproj/InfoPlist.strings    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/en.lproj -- ios-chat/en.lproj/InfoPlist.strings36"4C43194F-660C-4797-AE20-762F970A84B7-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CGenerateDSYMFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat
+s427170501.604079
+e427170501.795725
+r1
+xGenerateDSYMFile
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generate /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM130"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chatc9b09ac51a76b941^03b6cbc51a76b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM/0000000000000000^637"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat -o /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app.dSYM36"2F894B65-757C-4684-A735-54A379BEDD5E-
+b241A72FE-C3F6-4AF9-AF58-9861513B8830
+
+CLd /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat normal i386
+s427170501.422551
+e427170501.602360
+r1
+xLd
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat
+xnormal
+xi386
+d/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/ios-chat.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/AppDelegate.o
+d/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/main.o
+d/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/LoginViewController.o
+d/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Users/ors/projects/ios-chat/Pods/Parse/Parse.framework/Parse
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat73"Ld Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat normal i3861d3b6cc51a76b941^0d359ac51a76b941^---0#0#1#--1700"Ld Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat normal i386    cd /Users/ors/projects/ios-chat    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -filelist /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/ios-chat.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework Parse -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -weak_framework Accounts -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Objects-normal/i386/ios-chat_dependency_info.dat -o /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/ios-chat36"9B245FA2-6178-4B1C-A4C0-0AAEC678975F-
+b241A72FE-C3F6-4AF9-AF58-9861513B8830
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh
+s427170523.876658
+e427170523.895355
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'154"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.shd105e1db1a76b941^9e62e5db1a76b941^---0#0#1#--342"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh    cd /Users/ors/projects/ios-chat    /bin/sh -c /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-EB70B4A3F69F47CABDC50CFF.sh36"EB438257-B556-4610-870A-E0435BFCF72F-
+bC3D23EB2-992B-44A0-8AC3-04AFAD491D12
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh
+s427170523.901813
+e427170524.290156
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh
+o/Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle
+obuilding file list ... done
+o
+osent 516 bytes  received 20 bytes  1072.00 bytes/sec
+ototal size is 1071435  speedup is 1998.95
+o2014-07-15 19:28:44.213 IBCocoaTouchImageCatalogTool[7674:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'149"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh3066e7db1a76b941^84484adc1a76b941^-569"/Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... donesent 516 bytes  received 20 bytes  1072.00 bytes/sectotal size is 1071435  speedup is 1998.952014-07-15 19:28:44.213 IBCocoaTouchImageCatalogTool[7674:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Assets.car7(21%IDEActivityLogMessage2@90"/Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-427170523#0#90#-0#-----2@28"building file list ... done-427170523#90#28#-0#-----2@53"sent 516 bytes  received 20 bytes  1072.00 bytes/sec-427170523#119#53#-0#-----2@42"total size is 1071435  speedup is 1998.95-427170523#172#42#-0#-----2@221"2014-07-15 19:28:44.213 IBCocoaTouchImageCatalogTool[7674:303] CFPreferences: user home directory at file:///Users/ors/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-427170524#214#221#-0#-----2@43"/* com.apple.actool.compilation-results */-427170524#435#43#-0#-----2@90"/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Assets.car-427170524#478#90#-0#-----0#0#1#--337"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh    cd /Users/ors/projects/ios-chat    /bin/sh -c /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/Script-6E9CC24E68A747868D268928.sh36"135DAF0E-AAB6-442D-A327-68E2728FCB93-
+bC3D23EB2-992B-44A0-8AC3-04AFAD491D12
+
+CProcessInfoPlistFile /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist /Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist
+s427169421.993436
+e427169421.994931
+r1
+xProcessInfoPlistFile
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist
+x/Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Process /Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist110"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist ios-chat/ios-chat-Info.plist3d60fe8d1676b941^fab4fe8d1676b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist0000000000000000^841"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist ios-chat/ios-chat-Info.plist    cd /Users/ors/projects/ios-chat    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ors/projects/ios-chat/ios-chat/ios-chat-Info.plist -genpkginfo /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/assetcatalog_generated_info.plist -o /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app/Info.plist36"616D916F-E5A0-422D-AB22-24093D5D18B2-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CProcessPCH /Users/ors/Library/Developer/Xcode/DerivedData/ios-chat-ftzsctllwipsivasastwemceyzsb/Index/PrecompiledHeaders/ios-chat-Prefix-fcvtkhffuzlevcbzenjqayokffef_ast/ios-chat-Prefix.pch.pch ios-chat/ios-chat-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch ios-chat/ios-chat-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427169420.223604
+e427169420.419068
+r1
+xProcessPCH
+x/Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch
+xios-chat/ios-chat-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/ios-chat/ios-chat-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile ios-chat/ios-chat-Prefix.pch215"ProcessPCH Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch ios-chat/ios-chat-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6957398c1676b941^24b5748c1676b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ors/projects/ios-chat/ios-chat/ios-chat-Prefix.pch0000000000000000^3974"ProcessPCH Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch ios-chat/ios-chat-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/ios-chat-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/ios-chat.build/Debug-iphonesimulator/ios-chat.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -isystem /Users/ors/projects/ios-chat/Pods/Headers -isystem /Users/ors/projects/ios-chat/Pods/Headers/Bolts -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/ors/projects/ios-chat/Pods/Headers/Parse --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.dia -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.d -c /Users/ors/projects/ios-chat/ios-chat/ios-chat-Prefix.pch -o /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/ios-chat-Prefix-bpykpcukzzjtfnfczdadgbscieta/ios-chat-Prefix.pch.pch36"2A3C039F-15F3-4882-A61D-6C1E7E2469AD-
+b564B4437-A2C0-41B0-916E-0771DE1CB05D
+
+CTouch /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/ios-chat.app
+r0
+

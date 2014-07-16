@@ -1,0 +1,162 @@
+TPods-Parse
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o /Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000531F5AA40000000000CF7800
+t1394563748
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F5AA4000000000063A500
+t1394563748
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348186000000000004D7BC0
+t1397233760
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531F5AA40000000000152370
+t1394563748
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F5AA50000000000A90C10
+t1394563749
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531F5AA50000000000210E90
+t1394563749
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F5AA60000000000649DB0
+t1394563750
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F5AA60000000000186D60
+t1394563750
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c00000000531F5AA60000000000099D80
+t1394563750
+s630144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000531F5AA600000000001A2B00
+t1394563750
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534818830000000000000198
+t1397233795
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F5AB000000000000003B4
+t1394563760
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F5AB5000000000000019E
+t1394563765
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F5ACC0000000000000ADC
+t1394563788
+s2780
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o
+t1405476619
+s3360
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse.LinkFileList
+c0000000053C5DF0B000000000000008A
+t1405476619
+s138
+
+N/Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch
+t1405476619
+s122000
+
+N/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+t1405476619
+s3640
+
+N/Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m
+c0000000053C5DA60000000000000007C
+t1405475424
+s124
+
+N/Users/ors/projects/ios-chat/Pods/Pods-Parse-prefix.pch
+c0000000053C5DA60000000000000004D
+t1405475424
+s77
+
+N/Users/ors/projects/ios-chat/Pods/Pods-environment.h
+c0000000053C5DA600000000000000314
+t1405475424
+s788
+
+CBuild AST from /Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdafedddb1a76b941^9757dedb1a76b941^---0#1#1#--18"Check dependencies36"686C1FE6-D1BC-4683-B8CA-693D88E96A3B-
+
+CCompileC /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o /Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427169419.846004
+e427169419.874790
+r1
+xCompileC
+x/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o
+x/Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m233"CompileC /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7aa5d88b1676b941^cbf4df8b1676b941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m0000000000000000^3799"CompileC /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/BuildHeaders -I/Users/ors/projects/ios-chat/Pods/BuildHeaders/Parse -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse -include /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.d --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.dia -c /Users/ors/projects/ios-chat/Pods/Pods-Parse-dummy.m -o /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o36"E510025D-11AD-4916-A6AE-F2A21841D0A9-
+b9B8A0F6E-DBB2-40BE-BF9A-6F457CF5AD53
+
+CLibtool /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386
+s427169419.880489
+e427169419.885706
+r1
+xLibtool
+x/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Libtool /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386101"Libtool /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386817ce18b1676b941^2fc0e28b1676b941^---0#0#1#--1175"Libtool /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386    cd /Users/ors/projects/ios-chat/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -filelist /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse.LinkFileList -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework Foundation -framework MobileCoreServices -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -o /Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/libPods-Parse.a36"C50CF185-14E1-471F-B1D8-FC76757FFECC-
+b9B8A0F6E-DBB2-40BE-BF9A-6F457CF5AD53
+
+CProcessPCH /Users/ors/Library/Developer/Xcode/DerivedData/ios-chat-ftzsctllwipsivasastwemceyzsb/Index/PrecompiledHeaders/Pods-Parse-prefix-frsoppqclqbbqmayebpsuytqngrw_ast/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427169419.811903
+e427169419.845131
+r1
+xProcessPCH
+x/Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch
+xPods-Parse-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ors/projects/ios-chat/Pods/Pods-Parse-prefix.pch
+d/Users/ors/projects/ios-chat/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Parse-prefix.pch241"ProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler39efcf8b1676b941^d15bd88b1676b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/ors/projects/ios-chat/Pods/Pods-Parse-prefix.pch0000000000000000^3676"ProcessPCH /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ors/projects/ios-chat/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/ors/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator/include -I/Users/ors/projects/ios-chat/Pods/BuildHeaders -I/Users/ors/projects/ios-chat/Pods/BuildHeaders/Parse -I/Users/ors/projects/ios-chat/Pods/Headers -I/Users/ors/projects/ios-chat/Pods/Headers/Bolts -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK -I/Users/ors/projects/ios-chat/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/ors/projects/ios-chat/Pods/Headers/Parse -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/i386 -I/Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/ors/projects/ios-chat/Build/Products/Debug-iphonesimulator -F/Users/ors/projects/ios-chat/Pods/Parse --serialize-diagnostics /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.dia -MMD -MT dependencies -MF /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.d -c /Users/ors/projects/ios-chat/Pods/Pods-Parse-prefix.pch -o /Users/ors/projects/ios-chat/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-dnyvzcasnvfwsiedeomkwgbtajig/Pods-Parse-prefix.pch.pch36"AFBF91E0-DB82-4478-AB3D-BFFAF98DE350-
+b9B8A0F6E-DBB2-40BE-BF9A-6F457CF5AD53
+

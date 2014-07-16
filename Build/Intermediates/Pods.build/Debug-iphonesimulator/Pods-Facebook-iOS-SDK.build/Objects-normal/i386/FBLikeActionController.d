@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.m \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBDataDiskCache.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBErrorUtility+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBLikeButtonPopWAV.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBAudioResourceLoader.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Network/FBRequest+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

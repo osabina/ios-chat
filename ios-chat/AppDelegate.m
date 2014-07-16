@@ -8,11 +8,22 @@
 
 #import "AppDelegate.h"
 
+
+
+
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+
+    [Parse setApplicationId:@"0WdAoDlfFas3rwS1HCKpW2mXgmS6RO9oGes742SE" clientKey:@"vO6YY38d2I9Ij0RB1d2ReIl0LJfeK22Ga81HSrsY"];
+    LoginViewController *lvc = [[LoginViewController alloc] init];
+    MainViewController *mvc = [[MainViewController alloc] init];
+    self.lvc = lvc;
+    self.mvc = mvc;
+    
+    [self showView];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
@@ -46,4 +57,13 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
+- (void)showView {
+    PFUser *currentUser = [PFUser currentUser];
+    if (currentUser) {
+        self.window.rootViewController = self.mvc;
+        // do stuff with the user
+    } else {
+        self.window.rootViewController = self.lvc;
+    }
+}
 @end

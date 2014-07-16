@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.m \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Login/FBSession+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Login/FBSessionAppEventsState.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBDynamicFrameworkLoader.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBErrorUtility+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

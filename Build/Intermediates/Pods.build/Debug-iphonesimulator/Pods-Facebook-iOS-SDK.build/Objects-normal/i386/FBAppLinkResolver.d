@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/AppLink/FBAppLinkResolver.m \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBAppLinkResolver.h \
+  /Users/ors/projects/ios-chat/Pods/BuildHeaders/Bolts/BFAppLinkResolving.h \
+  /Users/ors/projects/ios-chat/Pods/BuildHeaders/Bolts/BFAppLink.h \
+  /Users/ors/projects/ios-chat/Pods/BuildHeaders/Bolts/BFAppLinkTarget.h \
+  /Users/ors/projects/ios-chat/Pods/BuildHeaders/Bolts/BFTask.h \
+  /Users/ors/projects/ios-chat/Pods/BuildHeaders/Bolts/BFTaskCompletionSource.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Network/FBRequest+Internal.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/ors/projects/ios-chat/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h
