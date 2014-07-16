@@ -286,7 +286,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesace3d0db1a76b941^2847d1db1a76b941^---0#1#1#--18"Check dependencies36"335CA9E8-DB7E-4905-950E-E5615FBD7D61-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfa2740642376b941^948440642376b941^---0#1#1#--18"Check dependencies36"E8B09D9F-8EF0-4337-9585-0BB3A661AE77-
 
 CCompileC /Users/ors/projects/ios-chat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Bolts.build/Objects-normal/i386/BFAppLink.o /Users/ors/projects/ios-chat/Pods/Bolts/Bolts/BFAppLink.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s427169417.696600

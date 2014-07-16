@@ -23,6 +23,8 @@
 		64E414BD1976120400252878 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64E414BB1976120400252878 /* LoginViewController.xib */; };
 		64E414C11976121600252878 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E414BF1976121600252878 /* MainViewController.m */; };
 		64E414C21976121600252878 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64E414C01976121600252878 /* MainViewController.xib */; };
+		64E414C619761ED300252878 /* MessageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E414C419761ED300252878 /* MessageCell.m */; };
+		64E414C719761ED300252878 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64E414C519761ED300252878 /* MessageCell.xib */; };
 		C75F1083971442F6AA1D7598 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 697F45A6C4624284A4FA8A97 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +62,9 @@
 		64E414BE1976121600252878 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		64E414BF1976121600252878 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		64E414C01976121600252878 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		64E414C319761ED300252878 /* MessageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MessageCell.h; path = ../../foo/MessageCell.h; sourceTree = "<group>"; };
+		64E414C419761ED300252878 /* MessageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MessageCell.m; path = ../../foo/MessageCell.m; sourceTree = "<group>"; };
+		64E414C519761ED300252878 /* MessageCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MessageCell.xib; path = ../../foo/MessageCell.xib; sourceTree = "<group>"; };
 		697F45A6C4624284A4FA8A97 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -133,6 +138,9 @@
 				64E414BE1976121600252878 /* MainViewController.h */,
 				64E414BF1976121600252878 /* MainViewController.m */,
 				64E414C01976121600252878 /* MainViewController.xib */,
+				64E414C319761ED300252878 /* MessageCell.h */,
+				64E414C419761ED300252878 /* MessageCell.m */,
+				64E414C519761ED300252878 /* MessageCell.xib */,
 			);
 			path = "ios-chat";
 			sourceTree = "<group>";
@@ -243,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64E414C719761ED300252878 /* MessageCell.xib in Resources */,
 				64E414951976119300252878 /* InfoPlist.strings in Resources */,
 				64E4149D1976119300252878 /* Images.xcassets in Resources */,
 				64E414BD1976120400252878 /* LoginViewController.xib in Resources */,
@@ -298,6 +307,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64E414C619761ED300252878 /* MessageCell.m in Sources */,
 				64E4149B1976119300252878 /* AppDelegate.m in Sources */,
 				64E414971976119300252878 /* main.m in Sources */,
 				64E414BC1976120400252878 /* LoginViewController.m in Sources */,
